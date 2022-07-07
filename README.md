@@ -17,4 +17,4 @@
 ## Conversation Pieces:
 - ❓What advice would you have for the new kid on the block? What do you wish you had known sooner?
 - 💬 Ask me about the dream I have to build a functional scoreboard for my life, as a way to keep myself motivated to grow. 
-- Ѱ I have a degree in psychology, and I'm wildly passonate about data that reveals what makes people/society tick.
+- Ѱ I have a degree in psychology, and I'm wildly passionate about giving people access to data that can help them improve their lives.
