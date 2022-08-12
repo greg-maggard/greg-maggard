@@ -1,11 +1,11 @@
 # Hey there, I'm Greg (He/Him/His) 🙋🏻‍♂
 
-### I'm a Data Scientist/Data Engineer, chasing stories about all the questions I want to answer. I love to dismantle a big, nebulous mess, see how it works, and reshape the parts into something beautiful and deeply impactful.
+### I'm a Data Scientist/Data Engineer, chasing stories about all the questions I want to answer. I love to dismantle a mess, see how it works, and reshape the parts into something deeply impactful.
 
 <img align="right" src="https://i.giphy.com/media/LedVYzRx24nkI/giphy.webp"/>
 
 ## What I'm up to:
-<li> 🧩 Enjoying the puzzle of shaping an world of data into a story we'd all love (or need, or both) to hear. Keeping passion at the forefront, and using humor and narrative to keep it accessible. </li>
+<li> 🧩 Enjoying the puzzle of shaping a world of data into a story we'd all love (or need, or both) to hear. Keeping passion at the forefront, and using humor and narrative to keep it accessible. </li>
 <li>🔬 Forever honing the basics, but here's the stuff I'm focusing on lately: </li>
 <ul>
   <li> 🐍 Python </li>
